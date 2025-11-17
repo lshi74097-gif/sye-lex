@@ -1,14 +1,9 @@
 molan
 
 Security Research · Red Team · Web Exploitation · Development  
-Curiosity as method, clarity as discipline.
 
 ────────────────────────────────
-
-Featured Work
-ESP32 Wireless Toolkit** — compact tools for Wi-Fi analysis and testing.  
-Web Exploitation Utilities** — lightweight payload + automation scripts.  
-Red Team Ops Notes** — curated techniques and field-tested methods.
+Walk forward with a sharp mind and an open heart; the world yields to those who stay curious.
 
 ────────────────────────────────
 
